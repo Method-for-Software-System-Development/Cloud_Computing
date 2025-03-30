@@ -1,2 +1,2 @@
 Tal Yagudin,Tal.Yagudin@e.braude.ac.il,[Web;Cloud],https://guthib.com/
-Noa Shitrit,Noa.Shitrit@e.braude.ac.il,[Web,AI,Kriyat],https://stock.adobe.com/search?k=cat
+Noa Shitrit,Noa.Shitrit@e.braude.ac.il,[Web;AI;Kriyat],https://stock.adobe.com/search?k=cat
