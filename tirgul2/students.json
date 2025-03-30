@@ -1,0 +1,16 @@
+{ "students": [
+    {
+        "name": "Tal Yagudin",
+        "email": "Tal.Yagudin@e.braude.ac.il",
+        "courses": ["Web", "Cloud", "AI"],
+        "funny_link": "https://guthib.com/",
+        "show": ""
+    },
+    {
+        "name": "Noa Shitrit",
+        "email": "Noa.Shitrit@e.braude.ac.il",
+        "courses": ["Web", "Cloud", "AI", "Kriyat"],
+        "funny_link": "https://stock.adobe.com/search?k=cat",
+        "show": ""
+    }
+]}
