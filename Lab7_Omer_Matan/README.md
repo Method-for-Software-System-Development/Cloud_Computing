@@ -2,9 +2,7 @@
 
 This project demonstrates a lightweight **Microservices architecture** for managing, indexing, and searching documents, with support for logical operators (AND / OR) and a basic rating mechanism.
 
----
-
-## 📐 Architecture Overview
+## Architecture Overview
 
 The system is modular and built around four independent services:
 
@@ -15,9 +13,7 @@ The system is modular and built around four independent services:
 
 Each service encapsulates its own state and logic, enabling scalable and testable design.
 
----
-
-## 🧩 Services Documentation
+## Services Documentation
 
 ### DocumentService
 
@@ -38,9 +34,7 @@ Each service encapsulates its own state and logic, enabling scalable and testabl
 
 - `format_results(doc_ids, doc_service, rating_service)` → Returns structured info including title, snippet, and score
 
----
-
-## 🧪 Usage Example
+## Usage Example
 
 ```python
 # 1. Add documents
@@ -64,9 +58,7 @@ results = index_service.search(["cloud", "ai"], mode="OR")
 formatted = format_results(results, doc_service, rating_service)
 ```
 
----
-
-## ✅ Test Results
+## Test Results
 
 | Scenario | Input | Output |
 |---------|--------|--------|
@@ -74,18 +66,3 @@ formatted = format_results(results, doc_service, rating_service)
 | `OR` search for `['cloud', 'ai']` | Docs 1 and 2 found | Average scores: 5.0 and 3.0 |
 | Add rating of 4 to Doc 1 | Score updated | New average: 4.5 |
 | Retrieve document by ID | `"1"` | Title and 100-char snippet displayed |
-
----
-
-## 🛠 Future Extensions
-
-- REST API with Flask or FastAPI
-- Persistent backend with Firebase or MongoDB
-- User authentication and permissions
-- Relevance-based search ranking (e.g., TF-IDF)
-
----
-
-## 🧑‍💻 Authors
-
-Built by students at Braude College – as part of a Microservices & Cloud Computing exercise.
