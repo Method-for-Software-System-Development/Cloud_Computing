@@ -1,6 +1,8 @@
 # 🛠️ User Guide
 
-Welcome to the **OptiLine Dashboard** — a real-time cloud-based interface for engineers in the CIM & Robotics Lab.
+Welcome to the **OptiLine Dashboard** - a real-time cloud-based interface for engineers in the CIM & Robotics Lab.
+
+---
 
 ## 1. How to Use the System
 
@@ -76,4 +78,4 @@ A: The leaderboard updates after each completed challenge, but the results are v
 
 ---
 
-Optimize wisely and climb the leaderboard! 🚀
+Optimize wisely and climb the leaderboard!
