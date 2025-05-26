@@ -74,7 +74,7 @@ A: Not at this stage. Handled faults cannot be revisited.
 A: Both modes are supported. In simulation mode, realistic data is streamed from a preloaded scenario.
 
 **Q: How often is the leaderboard updated?**  
-A: The leaderboard updates after each completed challenge, but the results are visible only after restarting the system.
+A: The leaderboard updates after each completed challenge.
 
 ---
 
