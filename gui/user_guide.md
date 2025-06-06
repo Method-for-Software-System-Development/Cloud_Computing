@@ -11,7 +11,7 @@ The dashboard consists of several main sections:
 - **Live Sensors Dashboard**  
   Monitor real-time data from indoor and outdoor sensors.
 
-- **OptiLine ChatBot- AI Assistant**
+- **OptiLine ChatBot- AI Assistant**  
   Get instant answers to your questions, troubleshooting advice, and guidance on using dashboard features- powered by Google Gemini.
 
 - **Statistics Panel**  
