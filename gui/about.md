@@ -21,7 +21,8 @@ The **OptiLine Dashboard** is a cloud-based interface designed for engineers wor
 
 - Real-time sensor monitoring from indoor and outdoor environments  
 - Historical data analysis with trend visualization  
-- Search capabilities over MQTT-related technical content  
+- Search capabilities over MQTT-related technical content
+- A built-in AI-powered ChatBot assistant is available to answer questions, provide troubleshooting tips, and guide users through the dashboard features 
 - A fault simulator with daily challenges for diagnosing simulated malfunctions  
 - A gamified experience with scoring based on performance and efficiency  
 - A user directory and personalized dashboard view  
